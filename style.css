@@ -1,0 +1,21 @@
+
+
+html, body {
+    height: 100%; 
+    margin: 0; 
+}
+
+
+body {
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+  }
+  
+.container{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
